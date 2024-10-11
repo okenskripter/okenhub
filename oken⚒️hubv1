@@ -20,7 +20,7 @@ local Window = Rayfield:CreateWindow({
 		Subtitle = "Key System",
 		Note = "join the discord (discord.gg/X6ECq8JV)",
 		FileName = "OkenKey",
-		SaveKey = true,
+		SaveKey = false,
 		GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
 		Key = "https://pastebin.com/raw/VxHvTw2H"
 	}
